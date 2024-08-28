@@ -7,7 +7,10 @@
 }
 .css_dica span{
     color: #ecfa00 ;
-
+}
+.css_tentativa span{
+    color: #ffffff ;
+    font-size: 70px;
 }
 .css_container_palavra{
     margin: 1.5em;
